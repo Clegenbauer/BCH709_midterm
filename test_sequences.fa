@@ -1,0 +1,12 @@
+>gene1 chrI protein_coding
+ATGCGATCGATCG
+ATCGATCGATCGA
+TTTGGGCCCAAA
+>gene2 chrII ribosomal
+atgcgcgcgcatgc
+>gene3 chrI tRNA
+ATGC
+GCTA
+ATGC
+>gene4 chrII mixed_case
+ATGCatgcATGCatgc
